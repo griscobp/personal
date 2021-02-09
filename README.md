@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <h1>About Me</h1>
-    <p>I'm hosted with github pages.</p>
+    <h1>Blake Griscom</h1>
+    <p>About me.</p>
   </body>
 </html>
